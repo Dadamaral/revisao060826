@@ -1,4 +1,4 @@
-1 - O retorno NaN é uma propriedade ainda indefinida. Por exemplo quando o código pede uma entrada de número e o usuário digita letras.
+1 - O retorno NaN é uma propriedade que significa "Not a Number". Por exemplo quando o código pede uma entrada de número e o usuário digita letras.
 
 2 - O CSS pode ficar inline, ou seja, dentro de cada linha do HTML. Pode ser interno, dentro do head a partir da tag style ou externo, onde código fica em um arquivo .css separado e é ligado ao HTML por uma linkagem.
 
