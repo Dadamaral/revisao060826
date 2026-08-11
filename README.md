@@ -2,7 +2,11 @@
 
 2 - O CSS pode ficar inline, ou seja, dentro de cada linha do HTML. Pode ser interno, dentro do head a partir da tag style ou externo, onde código fica em um arquivo .css separado e é ligado ao HTML por uma linkagem.
 
-3 -
+3 - .card-produto {
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 4 - As listas ordenadas (ol) organizam o conteúdo em listas com numeração, por exemplo:
 1. Pão
